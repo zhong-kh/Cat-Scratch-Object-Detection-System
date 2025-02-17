@@ -1,0 +1,3 @@
+ultralytics
+pygame
+opencv-python
